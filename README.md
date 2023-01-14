@@ -10,7 +10,7 @@ However, it works quite well :)
 
     python3 textinput.py
 
-just put the directory of your textfile here.
+just put the directory of your textfile here in the textinput.py file.
 
 `text = io.open('directory of your textfile', 'r', encoding='utf-8').read() `
 
