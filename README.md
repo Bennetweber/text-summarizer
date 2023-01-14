@@ -2,7 +2,7 @@
 
 I wrote the code for this text summarizer a little while ago.
 
-Sorry for the bad (nonexistent) comments(but code is kinda selfexplanetory).
+Sorry for the bad (nonexistent) comments(but code is kinda self-explanetory).
 
 However, it works quite well :)
 
